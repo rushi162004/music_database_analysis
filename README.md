@@ -19,4 +19,6 @@ Music database include the following tables:
 10. genre
 11. track
 
+Project explained here on YouTube : https://youtu.be/lDdRJXR4qbo?si=jN70hYIP7XCcrFKD
+
 ![ER_diagram](https://github.com/rushi162004/music_database_analysis/assets/121552987/4728e82b-d5ad-4c5d-b361-fb9cab525f7f)
